@@ -8,12 +8,12 @@ Generate realistic volunteer performance datasets and analyze promotion criteria
 # Create environment
 uv venv --python=python3.12
 
-# Install dependencies
-uv sync
-
 # Activate environment
 source .venv/bin/activate  # macOS/Linux
 # or .venv\Scripts\activate  # Windows
+
+# Install dependencies
+uv sync
 ```
 
 ## How It Works
