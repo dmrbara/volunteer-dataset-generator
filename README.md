@@ -2,6 +2,10 @@
 
 Generate realistic volunteer performance datasets and analyze promotion criteria for student organizations.
 
+## Requirements
+- Python 3.12
+- uv
+
 ## Quick Setup
 
 ```bash
